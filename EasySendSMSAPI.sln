@@ -2,9 +2,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasySendSMSAPI.Standard", "EasySendSMSAPI.Standard/EasySendSMSAPI.Standard.csproj", "{191cae50-e6d3-4b29-b555-902d5fc837a1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasySendSMSAPI.Standard", "EasySendSMSAPI.Standard/EasySendSMSAPI.Standard.csproj", "{c6c84ae0-0fc3-48a1-b791-a5c5289d4c66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasySendSMSAPI.Tests", "EasySendSMSAPI.Tests/EasySendSMSAPI.Tests.csproj", "{9a53624f-d202-4c3b-a3a3-a0e9e62f5ba0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasySendSMSAPI.Tests", "EasySendSMSAPI.Tests/EasySendSMSAPI.Tests.csproj", "{736ec669-21e6-4afa-be64-2175fe890f4d}"
 EndProject
 Global
     GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,14 +12,14 @@ Global
         Release|Any CPU = Release|Any CPU
     EndGlobalSection
     GlobalSection(ProjectConfigurationPlatforms) = postSolution
-        {191cae50-e6d3-4b29-b555-902d5fc837a1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-        {191cae50-e6d3-4b29-b555-902d5fc837a1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-        {191cae50-e6d3-4b29-b555-902d5fc837a1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-        {191cae50-e6d3-4b29-b555-902d5fc837a1}.Release|Any CPU.Build.0 = Release|Any CPU
-        {9a53624f-d202-4c3b-a3a3-a0e9e62f5ba0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-        {9a53624f-d202-4c3b-a3a3-a0e9e62f5ba0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-        {9a53624f-d202-4c3b-a3a3-a0e9e62f5ba0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-        {9a53624f-d202-4c3b-a3a3-a0e9e62f5ba0}.Release|Any CPU.Build.0 = Release|Any CPU
+        {c6c84ae0-0fc3-48a1-b791-a5c5289d4c66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {c6c84ae0-0fc3-48a1-b791-a5c5289d4c66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {c6c84ae0-0fc3-48a1-b791-a5c5289d4c66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {c6c84ae0-0fc3-48a1-b791-a5c5289d4c66}.Release|Any CPU.Build.0 = Release|Any CPU
+        {736ec669-21e6-4afa-be64-2175fe890f4d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {736ec669-21e6-4afa-be64-2175fe890f4d}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {736ec669-21e6-4afa-be64-2175fe890f4d}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {736ec669-21e6-4afa-be64-2175fe890f4d}.Release|Any CPU.Build.0 = Release|Any CPU
     EndGlobalSection
     GlobalSection(SolutionProperties) = preSolution
         HideSolutionNode = FALSE
