@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasySendSMSAPI.Standard", "EasySendSMSAPI.Standard/EasySendSMSAPI.Standard.csproj", "{393ac25c-6d8f-4c86-9c8a-85d150c5b812}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasySendSMSAPI.Tests", "EasySendSMSAPI.Tests/EasySendSMSAPI.Tests.csproj", "{e54dbefe-2825-4a22-a98c-fd681b0ab0c1}"
+EndProject
+Global
+    GlobalSection(SolutionConfigurationPlatforms) = preSolution
+        Debug|Any CPU = Debug|Any CPU
+        Release|Any CPU = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(ProjectConfigurationPlatforms) = postSolution
+        {393ac25c-6d8f-4c86-9c8a-85d150c5b812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {393ac25c-6d8f-4c86-9c8a-85d150c5b812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {393ac25c-6d8f-4c86-9c8a-85d150c5b812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {393ac25c-6d8f-4c86-9c8a-85d150c5b812}.Release|Any CPU.Build.0 = Release|Any CPU
+        {e54dbefe-2825-4a22-a98c-fd681b0ab0c1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {e54dbefe-2825-4a22-a98c-fd681b0ab0c1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {e54dbefe-2825-4a22-a98c-fd681b0ab0c1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {e54dbefe-2825-4a22-a98c-fd681b0ab0c1}.Release|Any CPU.Build.0 = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(SolutionProperties) = preSolution
+        HideSolutionNode = FALSE
+    EndGlobalSection
+EndGlobal
